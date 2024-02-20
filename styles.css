@@ -134,14 +134,11 @@ section {
   cursor: pointer;
   width: fit-content;
   margin-right: auto;
+  text-decoration: none;
 }
 
 .outreach:hover {
   opacity: 0.7;
-}
-
-.outreach i {
-  transform: rotate(-45deg);
 }
 
 .projectContainer {
