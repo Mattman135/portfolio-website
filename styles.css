@@ -164,6 +164,10 @@ section {
   flex: 1;
 }
 
+.projectItemDiv {
+  min-width: 210px;
+}
+
 .projectItem > div:last-child {
   aspect-ratio: 16/9;
   max-width: 30%;
